@@ -10,8 +10,11 @@ pero estos erroress pasan porque pusheamos al mismo tiempo?
 =======
 Hellooo♥
 holaa cambio de linea erROR
-<<<<<<< HEAD
 Hola Esta es la linea 8
 hola linea 8 eze
+<<<<<<< HEAD
 >>>>>>> 108490e39f64c31d954172e22619dec69a3b1a86
 >>>>>>> 4856174b56a2c0ebb86f0ff71b61f5e10aac568d
+=======
+
+>>>>>>> 2915d03db4176cb4df2a631acb3499246fc3c5d8
