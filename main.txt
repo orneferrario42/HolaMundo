@@ -1,13 +1,6 @@
 Hello World! - Orne estuvo aquí
 Hello World! - Ezequiel estuvo aquí
-<<<<<<< HEAD
-<<<<<<< HEAD
 Hello World! - JoseF estuvo aquí
-=======
-Hello World - Julieth Perdomo aquí
->>>>>>> c9d11c41fa7a735ba75f9072365052b4d23b45ac
-=======
 Hello World - Julieth Perdomo aquí
 hola chavales desde baranquilla rafael orozco aqui
 
->>>>>>> 34bd456af377ee9e3cf2743c117c6da01cf4f081
