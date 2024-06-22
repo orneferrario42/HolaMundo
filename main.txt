@@ -1,14 +1,17 @@
 Hello World! - Orne estuvo aquí
 Hello World! - Ezequiel estuvo aquí
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hello World! - JoseF estuvo aquí
-=======
-Hello World - Julieth Perdomo aquí
->>>>>>> c9d11c41fa7a735ba75f9072365052b4d23b45ac
-=======
+Hello World! - JoseF estuvo aquí, de nuevo
 Hello World - Julieth Perdomo aquí
 hola chavales desde baranquilla rafael orozco aqui
+<<<<<<< HEAD
 
 >>>>>>> 34bd456af377ee9e3cf2743c117c6da01cf4f081
 pero estos erroress pasan porque pusheamos al mismo tiempo?
+=======
+Hellooo♥
+holaa cambio de linea erROR
+<<<<<<< HEAD
+Hola Esta es la linea 8
+hola linea 8 eze
+>>>>>>> 108490e39f64c31d954172e22619dec69a3b1a86
+>>>>>>> 4856174b56a2c0ebb86f0ff71b61f5e10aac568d
