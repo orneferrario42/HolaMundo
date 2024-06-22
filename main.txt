@@ -1,3 +1,7 @@
 Hello World! - Orne estuvo aquí
 Hello World! - Ezequiel estuvo aquí
+<<<<<<< HEAD
 Hello World! - JoseF estuvo aquí
+=======
+Hello World - Julieth Perdomo aquí
+>>>>>>> c9d11c41fa7a735ba75f9072365052b4d23b45ac
