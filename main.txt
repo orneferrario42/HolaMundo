@@ -5,4 +5,12 @@ Hello World - Julieth Perdomo aquí
 hola chavales desde baranquilla rafael orozco aqui
 Hellooo♥
 holaa cambio de linea erROR
+<<<<<<< HEAD
 Hola esta e sla linea 8
+=======
+<<<<<<< HEAD
+Hola Esta es la linea 8
+=======
+hola linea 8 eze
+>>>>>>> 108490e39f64c31d954172e22619dec69a3b1a86
+>>>>>>> fb534257ee53e6177184567ae050b01217b91654
