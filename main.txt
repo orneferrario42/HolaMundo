@@ -11,3 +11,4 @@ Hello World - Julieth Perdomo aquí
 hola chavales desde baranquilla rafael orozco aqui
 
 >>>>>>> 34bd456af377ee9e3cf2743c117c6da01cf4f081
+pero estos erroress pasan porque pusheamos al mismo tiempo?
