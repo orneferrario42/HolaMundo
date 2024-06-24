@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola chicos! esto va  mal ....
+=======
+Hola chicos! como va?
+>>>>>>> d844d252ca23d55e8b526192906e0d82d91bd5ce
